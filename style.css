@@ -1,0 +1,40 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+a:hover   {
+    background-color: brown;
+}
+
+
+.bar {
+    border-style: solid;
+    border-color: red;
+    margin: 20px;
+}
+
+#photo {
+    image-orientation: flip; 
+}
+
+h3.header {
+    display:inline-block;
+    width: 15%;
+    background-blend-mode: color;
+}
+
+.head + .lli{
+    color: blue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underlined {
+    text-decoration: underline;
+}
